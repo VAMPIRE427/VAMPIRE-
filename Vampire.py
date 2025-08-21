@@ -1,2 +1,2 @@
-from VAMPIRE import approval
-approval()
+from VAMPIRE import menu
+menu()
