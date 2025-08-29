@@ -1,2 +1,3 @@
-from VAMPIRE import menu
-menu()
+from VAMPIRE import key
+key()
+
